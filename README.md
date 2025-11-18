@@ -119,8 +119,9 @@ go to installation choice linux
 scroll down(there is must be a command
 back to your terminal
 paste the command 
-after you paste the ngrok authtoken 
-write
+after you paste the ngrok authtoken command (dont paste the ngrok http 80)
+
+write this on your terminal
 ```bash
 ngrok http 3000
 ```
