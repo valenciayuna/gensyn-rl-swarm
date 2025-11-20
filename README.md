@@ -20,7 +20,7 @@ sudo chmod 600 /swapfile
 sudo mkswap /swapfile
 ```
 ```bash
-sudo swapon /swapfile`
+sudo swapon /swapfile
 ```
 ```bash
 echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab
