@@ -102,6 +102,7 @@ wait for it to run till asking you to log in
 we will use 2 option here local tunnel and ngrok (i prefer use ngrok)
 
 1.local tunnel
+
 ctrl a+d for detach your screen or
 duplicate your terminal
 then
