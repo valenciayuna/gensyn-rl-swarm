@@ -105,8 +105,12 @@ we will use 2 option here local tunnel and ngrok (i prefer use ngrok)
 
 duplicate your terminal
 then
-```npm install -g localtunnel```
-```lt --port 3000```
+```bash
+npm install -g localtunnel
+```
+```bash
+lt --port 3000
+```
 copy the links to your browser and log in
 
 2.ngrok
